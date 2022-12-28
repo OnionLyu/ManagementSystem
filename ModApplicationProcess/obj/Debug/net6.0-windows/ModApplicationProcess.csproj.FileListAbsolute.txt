@@ -1,0 +1,12 @@
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\bin\Debug\net6.0-windows\ModApplicationProcess.deps.json
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\bin\Debug\net6.0-windows\ModApplicationProcess.dll
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\bin\Debug\net6.0-windows\ModApplicationProcess.pdb
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ModApplicationProcess.csproj.AssemblyReference.cache
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ModApplicationProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ModApplicationProcess.AssemblyInfoInputs.cache
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ModApplicationProcess.AssemblyInfo.cs
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ModApplicationProcess.csproj.CoreCompileInputs.cache
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ModApplicationProcess.dll
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\refint\ModApplicationProcess.dll
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ModApplicationProcess.pdb
+C:\Users\yucon\source\repos\ManagementSystem\ModApplicationProcess\obj\Debug\net6.0-windows\ref\ModApplicationProcess.dll

@@ -1,0 +1,331 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ManagementSystem\\MainApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\CommonFunctions\\CommonFunctions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\CommonFunctions\\CommonFunctions.csproj",
+        "projectName": "CommonFunctions",
+        "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\CommonFunctions\\CommonFunctions.csproj",
+        "packagesPath": "C:\\Users\\yucon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\CommonFunctions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yucon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ManagementSystem\\MainApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ManagementSystem\\MainApp.csproj",
+        "projectName": "MainApp",
+        "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ManagementSystem\\MainApp.csproj",
+        "packagesPath": "C:\\Users\\yucon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ManagementSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yucon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\CommonFunctions\\CommonFunctions.csproj": {
+                "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\CommonFunctions\\CommonFunctions.csproj"
+              },
+              "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModApplicationProcess\\ModApplicationProcess.csproj": {
+                "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModApplicationProcess\\ModApplicationProcess.csproj"
+              },
+              "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModLogin\\ModLogin.csproj": {
+                "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModLogin\\ModLogin.csproj"
+              },
+              "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModUserManagement\\ModUserManagement.csproj": {
+                "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModUserManagement\\ModUserManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "FontAwesome5": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.39, )"
+            },
+            "Prism.DryIoc": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModApplicationProcess\\ModApplicationProcess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModApplicationProcess\\ModApplicationProcess.csproj",
+        "projectName": "ModApplicationProcess",
+        "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModApplicationProcess\\ModApplicationProcess.csproj",
+        "packagesPath": "C:\\Users\\yucon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModApplicationProcess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yucon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModLogin\\ModLogin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModLogin\\ModLogin.csproj",
+        "projectName": "ModLogin",
+        "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModLogin\\ModLogin.csproj",
+        "packagesPath": "C:\\Users\\yucon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModLogin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yucon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModUserManagement\\ModUserManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModUserManagement\\ModUserManagement.csproj",
+        "projectName": "ModUserManagement",
+        "projectPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModUserManagement\\ModUserManagement.csproj",
+        "packagesPath": "C:\\Users\\yucon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModUserManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yucon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

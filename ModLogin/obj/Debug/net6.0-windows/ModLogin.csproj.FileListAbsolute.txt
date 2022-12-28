@@ -1,0 +1,12 @@
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\bin\Debug\net6.0-windows\ModLogin.deps.json
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\bin\Debug\net6.0-windows\ModLogin.dll
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\bin\Debug\net6.0-windows\ModLogin.pdb
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ModLogin.csproj.AssemblyReference.cache
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ModLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ModLogin.AssemblyInfoInputs.cache
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ModLogin.AssemblyInfo.cs
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ModLogin.csproj.CoreCompileInputs.cache
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ModLogin.dll
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\refint\ModLogin.dll
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ModLogin.pdb
+C:\Users\yucon\source\repos\ManagementSystem\ModLogin\obj\Debug\net6.0-windows\ref\ModLogin.dll
