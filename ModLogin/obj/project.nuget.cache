@@ -1,12 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "12by9M7gtRl59E5r/NK6D5++0XBBLT+m36KnqKPoXyyxBQC8jyVq/7ZVJKfdmOrdTDTX9haS8oNsX4WWE8+3qA==",
+  "dgSpecHash": "fLFOw/0Kl6L3JWO+04utice4F3C6fg7/syt5Jc+vZ4QarRxwPc13g8oawnBFEL/LukVQUDRtxp8+PhDT85Ci2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ModLogin\\ModLogin.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yucon\\.nuget\\packages\\fontawesome5.wpf\\1.0.5\\fontawesome5.wpf.1.0.5.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0-windows7.0”还原包“FontAwesome5.WPF 1.0.5”。此包可能与项目不完全兼容。",
+      "libraryId": "FontAwesome5.WPF",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

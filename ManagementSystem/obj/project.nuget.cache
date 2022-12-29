@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5m7lRuG5tWZ4f/maS+0JB/P0VW3WHpiZIT4H2JQEPSYFZcLjkBJaujlWDMoNNjMvJ1PsC2wNmOJKau/vk34yjA==",
+  "dgSpecHash": "syv+npuTnaRU8CsJbA24Nof6UtAnkS2GvWRY1HL+ja39Tni7oxTx79OaV/5u+EALcnVKrOYU0b/+UKY9MYK/Iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\yucon\\source\\repos\\ManagementSystem\\ManagementSystem\\MainApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yucon\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\fontawesome5\\2.1.11\\fontawesome5.2.1.11.nupkg.sha512",
+    "C:\\Users\\yucon\\.nuget\\packages\\fontawesome5.wpf\\1.0.5\\fontawesome5.wpf.1.0.5.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
@@ -21,5 +22,16 @@
     "C:\\Users\\yucon\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\yucon\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0-windows7.0”还原包“FontAwesome5.WPF 1.0.5”。此包可能与项目不完全兼容。",
+      "libraryId": "FontAwesome5.WPF",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

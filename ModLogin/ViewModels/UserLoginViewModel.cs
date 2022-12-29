@@ -25,7 +25,8 @@ namespace ModLogin.ViewModels
 
         public UserLoginViewModel(IRegionManager regionManager, IEventAggregator aggregator)
         {
-
+            _regionManager = regionManager;
+            _eventAggregator = aggregator;
         }
         public DelegateCommand LoginCommand => new(() =>
         {

@@ -35,3 +35,4 @@ C:\Users\yucon\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net6.0-w
 C:\Users\yucon\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net6.0-windows\MainApp.pdb
 C:\Users\yucon\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net6.0-windows\MainApp.genruntimeconfig.cache
 C:\Users\yucon\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net6.0-windows\ref\MainApp.dll
+C:\Users\yucon\source\repos\ManagementSystem\ManagementSystem\bin\Debug\net6.0-windows\FontAwesome5.WPF.dll

@@ -43,6 +43,14 @@
           }
         }
       },
+      "FontAwesome5.WPF/1.0.5": {
+        "runtime": {
+          "lib/net40/FontAwesome5.WPF.dll": {
+            "assemblyVersion": "1.0.5.65",
+            "fileVersion": "1.0.5.65"
+          }
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
@@ -146,6 +154,9 @@
         }
       },
       "CommonFunctions/1.0.0": {
+        "dependencies": {
+          "FontAwesome5.WPF": "1.0.5"
+        },
         "runtime": {
           "CommonFunctions.dll": {}
         }
@@ -156,6 +167,10 @@
         }
       },
       "ModLogin/1.0.0": {
+        "dependencies": {
+          "CommonFunctions": "1.0.0",
+          "Prism.Wpf": "8.1.97"
+        },
         "runtime": {
           "ModLogin.dll": {}
         }
@@ -186,6 +201,13 @@
       "sha512": "sha512-OGwy+ZJoJR7U71eA3BenwP7rdVviVYp8p6ptdBEhoMRuRsSV4vGM/LypVBhonBI43WSxXBysSoE5uQ2SkYKNvA==",
       "path": "fontawesome5/2.1.11",
       "hashPath": "fontawesome5.2.1.11.nupkg.sha512"
+    },
+    "FontAwesome5.WPF/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+ta0s83+rEJ4QSV/3tHBXy8y/y2aC0U6uqf2PiuJGQe5QdO/40Tc6TS2H23i8M5hI60hXaFkITweLyJHZ+sRLQ==",
+      "path": "fontawesome5.wpf/1.0.5",
+      "hashPath": "fontawesome5.wpf.1.0.5.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
